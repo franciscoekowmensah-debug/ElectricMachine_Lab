@@ -2,7 +2,7 @@
 
 An interactive, immersive 3D/VR engineering workspace built from scratch to bridge the gap between abstract mathematical motor equations and tactile engineering implementation. This application deploys seamlessly to modern web browsers via Unity's WebGL/Web 6 pipeline and features full world-space control rigs.
 
-🚀 **[LIVE_GITHUB_PAGE LINK](https://franciscoekowmensah-debug.github.io/ElectricMachine_Lab/)**
+🚀 **[LIVE GITHUB LINK](https://franciscoekowmensah-debug.github.io/ElectricMachine_Lab/)**
 
 ---
 
@@ -37,11 +37,11 @@ The mathematical core actively monitors student inputs and instantly enforces ph
 ## 👥 Contributors
 
 This project was developed by an incredible team of engineers and developers:
-* **[Francis Ekow Yeboah Mensah]([@EkowCisco](https://github.com/franciscoekowmensah-debug))** - Physics & C# Logic
-* **[Godfred Obeng]([@obengg334-cell](https://github.com/obengg334-cell))** - 3D UI & UX Design
-* **[Andrews Osei]([@OSEI Andrews](https://github.com/Andrews-Osei))** - XR/VR System
-* **[Catherine Bruce Vuochere](GITHUB_PROFILE_URL)** - WebGL Deployment
-* **[Essel Samuel Appiah](GITHUB_PROFILE_URL)** - AI Tutor Engine 
+* **Francis Ekow Yeboah Mensah  [@EkowCisco](https://github.com/franciscoekowmensah-debug)** - Physics & C# Logic
+* **Godfred Obeng  [@obengg334-cell](https://github.com/obengg334-cell)** - 3D UI & UX Design
+* **Andrews Osei  [@OSEI Andrews](https://github.com/Andrews-Osei)** - XR/VR System
+* **Catherine Bruce Vuochere  [](GITHUB_PROFILE_URL)** - WebGL Deployment
+* **Essel Samuel Appiah  [](GITHUB_PROFILE_URL)** - AI Tutor Engine 
 
 ---
 
