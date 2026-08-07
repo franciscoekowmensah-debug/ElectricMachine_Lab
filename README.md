@@ -2,7 +2,7 @@
 
 An interactive, immersive 3D/VR engineering workspace built from scratch to bridge the gap between abstract mathematical motor equations and tactile engineering implementation. This application deploys seamlessly to modern web browsers via Unity's WebGL/Web 6 pipeline and features full world-space control rigs.
 
-🚀 **[LIVE_GITHUB_PAGE LINK (soon)]**
+🚀 **[[LIVE_GITHUB_PAGE LINK]](https://franciscoekowmensah-debug.github.io/ElectricMachine_Lab/)**
 
 ---
 
