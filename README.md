@@ -2,7 +2,7 @@
 
 An interactive, immersive 3D/VR engineering workspace built from scratch to bridge the gap between abstract mathematical motor equations and tactile engineering implementation. This application deploys seamlessly to modern web browsers via Unity's WebGL/Web 6 pipeline and features full world-space control rigs.
 
-🚀 **[[LIVE_GITHUB_PAGE LINK]](https://franciscoekowmensah-debug.github.io/ElectricMachine_Lab/)**
+🚀 **[LIVE_GITHUB_PAGE LINK](https://franciscoekowmensah-debug.github.io/ElectricMachine_Lab/)**
 
 ---
 
@@ -31,6 +31,17 @@ The mathematical core actively monitors student inputs and instantly enforces ph
 * **Excitation Saturation (< 1.0A):** The rotor lacks sufficient magnetic field alignment capability to lock steps into the rotating magnetic field (RMF).
 * **Pull-Out / Stall Condition:** When applied mechanical load torque overpowers the current available peak breakdown torque envelope, the magnetic coupling snaps and the actual rotor RPM crashes to 0 instantly.
 * **Field-Weakening Physics:** Operating the system past nominal base frequency (50Hz) triggers a quadratic drop in torque capabilities, simulating real-world machine constraints.
+
+---
+
+## 👥 Contributors
+
+This project was developed by an incredible team of engineers and developers:
+* **[Francis Ekow Yeboah Mensah]([@EkowCisco](https://github.com/franciscoekowmensah-debug))** - Physics & C# Logic
+* **[Godfred Obeng]([@obengg334-cell](https://github.com/obengg334-cell))** - 3D UI & UX Design
+* **[Andrews Osei]([@OSEI Andrews](https://github.com/Andrews-Osei))** - XR/VR System
+* **[Catherine Bruce Vuochere](GITHUB_PROFILE_URL)** - WebGL Deployment
+* **[Essel Samuel Appiah](GITHUB_PROFILE_URL)** - AI Tutor Engine 
 
 ---
 
